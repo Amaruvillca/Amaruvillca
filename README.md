@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👨💻
+# Hola, soy Amaru Lino Villca Alanez 👨💻
 
 ### 💻 Stack Tecnológico
 
@@ -18,18 +18,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-**Frontend:**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
----
-
-### 📊 Estadísticas GitHub
-![Mis stats](https://github-readme-stats.vercel.app/api?username=[TU_USER]&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USER]&layout=compact&theme=dark)
-
----
-
-📫 **Contacto:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
